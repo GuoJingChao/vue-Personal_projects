@@ -1,16 +1,20 @@
 ## 文件目录
 
-    crm
+    Personal_projects
     ├── public
-    │   └── mock
-    │       └── login.json
+    │   ├── mock
+    │   │   └── login.json
+    │   ├── binyue.pdf
+    │   ├── favicon.ico
+    │   └── index.html
     ├── src
     │   ├── assets
     │   │   └── img
     │   ├── components
-    │   │   ├── Header.vue
     │   │   ├── Footer.vue
-    │   │   └── MyNav.vue
+    │   │   ├── Header.vue
+    │   │   ├── MyNav.vue
+    │   │   └── Pdf.vue
     │   ├── pages
     │   │   ├── home.vue
     │   │   ├── index.vue
@@ -54,3 +58,10 @@
         新增 验证身份证号 全局方法 
     ]
     
+    *[
+        首页记录三种路由传参方式 --- （基础，当个笔记）
+        页面2 中 新增了一个 pdf 浏览方法 ---- （已制成一个组件，再用直接拿走去用即可）
+        pdf 浏览方法 出处 （https://www.jianshu.com/p/e71c7a7abfdb）
+        原作者：简书 --> woniu12 
+        原作者首页： https://www.jianshu.com/u/bfea62dd0faf
+    ]
